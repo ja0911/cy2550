@@ -1,0 +1,11 @@
+chmod 755 /usr/local/bin
+chmod 755 /usr/local/share/ca-certificates
+chmod 644 /home/alice/.profile
+chmod 755 /usr/bin/bash
+chmod 755 /usr/bin/ls
+chmod 664 /var/log/lastlog
+chmod 755 /usr/bin/sha1sum
+chown root:root /var/log/apt
+chmod 775 /var/log
+chmod 555 /sys
+chmod 555 /proc
